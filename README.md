@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**whitenning/whitenning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![4ObL](https://user-images.githubusercontent.com/99107830/207678972-2375dcf4-833c-4267-94cb-61960a38c9ea.gif)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on nothing
+- 🌱 I’m currently learning something
+- 👯 I’m looking to collaborate on anything
+- 🤔 I’m looking for help with everything
+- 💬 Ask me about thing
+- 📫 How to reach me: .. 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: squad 100kg 5reps
+
+
+
