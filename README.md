@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![4ObL](https://user-images.githubusercontent.com/99107830/207678972-2375dcf4-833c-4267-94cb-61960a38c9ea.gif)
+![tumblr_o3b3gwocm91ughloeo1_500](https://user-images.githubusercontent.com/99107830/207679879-463ce864-0691-4d2c-9823-8eccc4633d12.gif)
+
 
 
 - 🔭 I’m currently working on nothing
